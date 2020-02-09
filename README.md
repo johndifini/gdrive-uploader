@@ -1,5 +1,5 @@
 # Gdrive Uploader
-Gdrive Uploader is a simple JavaScript to upload a file to Google Drive and set its MIME type.  Why would you ever need to do such a thing?  Well, in my case, I was trying to upload vector graphics via Google Drives browser interface, but it wasn't setting the MIME type correctly.  Therefore, I wasn't able to open the vector graphics with Google Drawings.
+Gdrive Uploader is a simple JavaScript to upload a file to Google Drive and set its MIME type.  Why would you ever need to do such a thing?  Well, in my case, I was trying to upload a vector graphic via Google Drive's web interface, but it wasn't setting the MIME type correctly.  Therefore, I wasn't able to open the vector graphic with Google Drawings.
 ## Dependancies
 * [Node.js](https://nodejs.org/en/download/)
 * [Google API v3 Node.js Client](https://www.npmjs.com/package/googleapis) (e.g. `npm install --global googleapis`)
